@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+sub {
+    color: black;
+    font-size: 10px;
+}
+.g {
+    color: blue;
+}
+.rd {
+    color: red;
+}
+.yl {
+    color: rgb(247, 191, 9);
+}
+.gr {
+    color: green;
+}
+
+input {
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 3px;
+}
+
+.img-right {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.words {
+    text-align:justify;
+}
+
+th {
+    background-color: gray;
+    padding: 5px;
+}
+table {
+    text-align: center;
+}
+td {
+    color: red;
+}
+img {
+    width: 200px;
+    height: 100px;
+}
